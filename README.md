@@ -105,7 +105,7 @@ Topologyy
         └────────────────────────────────────────────────────────────────────────────────────────┘
                             
 ```                                                    
-![Cute cat photo](http://localhost:8080/static/FlowC1.svg)
+![Cute cat photo](https://github.com/aze2201/bitqap-1/blob/main/FlowC1.svg)
 
 <br> <br>
 
